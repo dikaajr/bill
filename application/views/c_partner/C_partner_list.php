@@ -39,8 +39,8 @@
                     <th width="10px">No</th>
 		    <th>NamaPartner</th>
 		    <th>Telp</th>
-		    <th>Bankacc</th>
-		 
+		    <th>Nama Bank</th>
+        <th>No Rekening</th>
                     <th width="80px">Action</th>   
                 </tr>
             </thead>

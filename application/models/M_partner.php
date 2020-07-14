@@ -17,7 +17,7 @@ class M_partner extends CI_Model
 
     // datatables
     function json() {
-        $this->datatables->select('id_partner,id_users,namaPartner,telp,bankacc');
+        $this->datatables->select('id_partner,id_users,namaPartner,telp,bankName,bankNorek');
         $this->datatables->from('t_partner');
         //add this line for join
         //$this->datatables->join('table2', 't_partner.field = table2.field');

@@ -40,7 +40,7 @@
                         {
                             "data": "id_partner",
                             "orderable": false
-                        },{"data": "namaPartner"},{"data": "telp"},{"data": "bankacc"},
+                        },{"data": "namaPartner"},{"data": "telp"},{"data": "bankName"},{"data": "bankNorek"},
                         {
                             "data" : "action",
                             "orderable": false,
